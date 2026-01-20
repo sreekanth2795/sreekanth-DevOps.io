@@ -18,4 +18,4 @@ In this DevOps project, you will gain practical knowledge of the following conce
 
 The following documentation has the step-by-step tutorial on Pritunl VPN setup to achieve secure, scalable, and highly available remote VPC connectivity.
 
-**Full Documentation:** [Pritunl VPN Setup](https://devopscube.com/setup-pritunl-vpn-on-ec2/)
+
